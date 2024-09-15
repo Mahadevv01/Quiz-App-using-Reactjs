@@ -32,6 +32,4 @@ npm run dev
 ![img](https://i.imgur.com/1VdDfo1.png)
 
 
-## Please Leave a ⭐
 
-It will help a lot if you can give a ⭐ to the repository.
